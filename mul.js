@@ -1,3 +1,4 @@
 const mul = (a,b,c) => {
-    return a*b;
+    console.log('kshiti')
+    return a**b;
 }
