@@ -1,3 +1,3 @@
-const add = (a,b,c) => {
+const add = (a,b) => {
     return a+b;
 }
